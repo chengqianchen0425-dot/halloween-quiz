@@ -1,0 +1,470 @@
+{
+  "meta": {
+    "lang": "en",
+    "title": "Which Halloween Monster Are You?",
+    "subtitle": "8 questions to find the little monster living inside you",
+    "intro": "No star signs, no blood types. Just how you'd really act on Halloween night. Screenshot your card and see which monster your friends get.",
+    "brand": "#7B2FF7",
+    "resultLabel": "Your Halloween monster is"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "At a Halloween party, you're usually…",
+      "options": [
+        {
+          "text": "In a corner, quietly watching everyone",
+          "score": {
+            "mummy": 2,
+            "cat": 1
+          }
+        },
+        {
+          "text": "Hyping the room and starting games",
+          "score": {
+            "joker": 2
+          }
+        },
+        {
+          "text": "Drink in hand, chatting with everyone in turn",
+          "score": {
+            "vampire": 2
+          }
+        },
+        {
+          "text": "Hiding somewhere nobody can find me",
+          "score": {
+            "zombie": 2,
+            "pumpkin": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "The candy bowl comes your way. You take…",
+      "options": [
+        {
+          "text": "The one with the prettiest wrapper",
+          "score": {
+            "cat": 2
+          }
+        },
+        {
+          "text": "The most expensive one",
+          "score": {
+            "vampire": 2
+          }
+        },
+        {
+          "text": "Whatever there's the most of, to stockpile",
+          "score": {
+            "bat": 2
+          }
+        },
+        {
+          "text": "A random handful, whatever",
+          "score": {
+            "zombie": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "A strange noise at midnight. Your first move?",
+      "options": [
+        {
+          "text": "Grab something and go check",
+          "score": {
+            "reaper": 2
+          }
+        },
+        {
+          "text": "Dive under the covers",
+          "score": {
+            "pumpkin": 2
+          }
+        },
+        {
+          "text": "Post about it: did anyone else hear that?",
+          "score": {
+            "joker": 2
+          }
+        },
+        {
+          "text": "Pretend I didn't hear it and sleep",
+          "score": {
+            "zombie": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Pick your costume strategy",
+      "options": [
+        {
+          "text": "Full glam, it has to look good in photos",
+          "score": {
+            "vampire": 2
+          }
+        },
+        {
+          "text": "Funny, the uglier the better",
+          "score": {
+            "joker": 2
+          }
+        },
+        {
+          "text": "Maximum scary, make someone cry",
+          "score": {
+            "reaper": 2
+          }
+        },
+        {
+          "text": "No costume, I'll just watch",
+          "score": {
+            "cat": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "If you could have one superpower, you'd pick…",
+      "options": [
+        {
+          "text": "Mind reading",
+          "score": {
+            "mummy": 2
+          }
+        },
+        {
+          "text": "Invisibility",
+          "score": {
+            "cat": 2,
+            "mummy": 1
+          }
+        },
+        {
+          "text": "Stopping time",
+          "score": {
+            "reaper": 2
+          }
+        },
+        {
+          "text": "Seeing the future",
+          "score": {
+            "pumpkin": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "What face do you carve on your jack-o'-lantern?",
+      "options": [
+        {
+          "text": "An evil grin",
+          "score": {
+            "reaper": 2,
+            "joker": 1
+          }
+        },
+        {
+          "text": "Pouty and wronged",
+          "score": {
+            "pumpkin": 2
+          }
+        },
+        {
+          "text": "Totally blank",
+          "score": {
+            "zombie": 2
+          }
+        },
+        {
+          "text": "Heart eyes",
+          "score": {
+            "mummy": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "A friend wants to vent late at night. You…",
+      "options": [
+        {
+          "text": "Reply instantly and talk till sunrise",
+          "score": {
+            "bat": 2,
+            "reaper": 1
+          }
+        },
+        {
+          "text": "Send a string of 60-second voice notes",
+          "score": {
+            "joker": 2
+          }
+        },
+        {
+          "text": "Reply “hugs” and go to sleep",
+          "score": {
+            "cat": 2,
+            "zombie": 1
+          }
+        },
+        {
+          "text": "See it the next morning",
+          "score": {
+            "mummy": 2,
+            "cat": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "After Halloween, what do you miss most?",
+      "options": [
+        {
+          "text": "The leftover candy",
+          "score": {
+            "bat": 2
+          }
+        },
+        {
+          "text": "The costume",
+          "score": {
+            "vampire": 2
+          }
+        },
+        {
+          "text": "The all-night party",
+          "score": {
+            "bat": 2,
+            "joker": 1
+          }
+        },
+        {
+          "text": "Nothing. Glad it's over",
+          "score": {
+            "pumpkin": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "bat",
+      "name": "Bratty Bat",
+      "nameEn": "Bratty Bat",
+      "art": null,
+      "tagline": "“None of my business,” you say, already running to help.",
+      "desc": "I've got a bit of a temper, but mess with my people and you deal with me first. I'm useless by day and fully charged after midnight. Don't be too nice to me. I remember everything, good and bad.",
+      "power": "Loyal to a fault, my people are off-limits",
+      "weakness": "Holds grudges into the next life",
+      "match": {
+        "best": [
+          "vampire",
+          "reaper"
+        ],
+        "worst": [
+          "joker",
+          "zombie"
+        ]
+      },
+      "shareLine": "I got Bratty Bat: bad temper, fiercely loyal."
+    },
+    {
+      "id": "vampire",
+      "name": "Venomous Vampire",
+      "nameEn": "Venomous Vampire",
+      "art": null,
+      "tagline": "You think you're networking. I'm the one choosing.",
+      "desc": "I know what to say and what to wear, and I always find the best seat in the room. I'm nice to you because I want to be, and I ignore you for the same reason. Polish is my armor, and self-interest is my honesty.",
+      "power": "Makes the whole room remember your name in three minutes",
+      "weakness": "Can't stand anyone looking better in photos",
+      "match": {
+        "best": [
+          "cat",
+          "bat"
+        ],
+        "worst": [
+          "zombie",
+          "pumpkin"
+        ]
+      },
+      "shareLine": "I got Venomous Vampire: elegant, but only for myself."
+    },
+    {
+      "id": "mummy",
+      "name": "Melancholy Mummy",
+      "nameEn": "Melancholy Mummy",
+      "art": null,
+      "tagline": "Wrapped up tight. Only close friends get to see the real me.",
+      "desc": "People think I'm cold when we first meet. I'm just slow to warm up. I wrap my feelings in layer after layer, and whoever is patient enough to unwrap them finds nothing but sincerity.",
+      "power": "Once I choose you, it's for years and years",
+      "weakness": "So many layers, unwrapping one takes forever",
+      "match": {
+        "best": [
+          "pumpkin",
+          "cat"
+        ],
+        "worst": [
+          "joker",
+          "vampire"
+        ]
+      },
+      "shareLine": "I got Melancholy Mummy: slow to open up, deeply loyal."
+    },
+    {
+      "id": "zombie",
+      "name": "Zoned-Out Zombie",
+      "nameEn": "Zoned-Out Zombie",
+      "art": null,
+      "tagline": "Brain offline. Happiness online.",
+      "desc": "I don't compete, and I barely remember what happened yesterday. While everyone else is stressing, I'm thinking about dinner. My happiness is simple: food, sleep, and nobody calling my name.",
+      "power": "Sleeps off any problem, however big",
+      "weakness": "Replies to messages in days, not minutes",
+      "match": {
+        "best": [
+          "joker",
+          "pumpkin"
+        ],
+        "worst": [
+          "reaper",
+          "vampire"
+        ]
+      },
+      "shareLine": "I got Zoned-Out Zombie: brain offline, happiness online."
+    },
+    {
+      "id": "reaper",
+      "name": "Raging Reaper",
+      "nameEn": "Raging Reaper",
+      "art": null,
+      "tagline": "Give me the job and it's done in three minutes. Make me mad and you're done in three seconds.",
+      "desc": "I keep my word and never drag my feet. My patience is just a little short, and slowpokes make my scythe itch. My temper flares fast and fades fast, and after I blow up I'll still finish the job for you.",
+      "power": "Gets things done, the nemesis of deadlines",
+      "weakness": "Quick to explode, quick to regret it",
+      "match": {
+        "best": [
+          "bat",
+          "mummy"
+        ],
+        "worst": [
+          "zombie",
+          "joker"
+        ]
+      },
+      "shareLine": "I got Raging Reaper: reliable, but don't push it."
+    },
+    {
+      "id": "pumpkin",
+      "name": "Pessimistic Pumpkin",
+      "nameEn": "Pessimistic Pumpkin",
+      "art": null,
+      "tagline": "The roundest smile in the room, with a little rain cloud inside.",
+      "desc": "I look cheerful and easy to be around, and everyone wants me at the party. But my brain is always rehearsing the worst-case ending. My gloom is steady and sincere. Don't worry, though. I still light the candle afterwards.",
+      "power": "Always has a worst-case plan ready",
+      "weakness": "Suspicious of good news on arrival",
+      "match": {
+        "best": [
+          "mummy",
+          "zombie"
+        ],
+        "worst": [
+          "joker",
+          "vampire"
+        ]
+      },
+      "shareLine": "I got Pessimistic Pumpkin: cheerful outside, raining inside."
+    },
+    {
+      "id": "joker",
+      "name": "Jovial Joker",
+      "nameEn": "Jovial Joker",
+      "art": null,
+      "tagline": "Wherever I am, the room never goes quiet.",
+      "desc": "I was born to hype the room, and I head straight for wherever it's quiet. My joy is contagious and I'll catch your awkward moments. It's just that after the party, I sometimes want someone to sit quietly with me too.",
+      "power": "Makes strangers laugh in three sentences",
+      "weakness": "Can't stop; five quiet minutes feel like torture",
+      "match": {
+        "best": [
+          "zombie",
+          "vampire"
+        ],
+        "worst": [
+          "mummy",
+          "cat"
+        ]
+      },
+      "shareLine": "I got Jovial Joker: wherever it's awkward, I'm on my way."
+    },
+    {
+      "id": "cat",
+      "name": "Conceited Cat",
+      "nameEn": "Conceited Cat",
+      "art": null,
+      "tagline": "I'm not antisocial. The group just isn't good enough for me.",
+      "desc": "I'm elegant, independent and have taste, and most humans are a bit loud for me. But if you happen to catch my eye, I'll quietly nudge your hand right when you need it most.",
+      "power": "One look makes people doubt themselves",
+      "weakness": "Too proud to ask for the attention I want",
+      "match": {
+        "best": [
+          "vampire",
+          "mummy"
+        ],
+        "worst": [
+          "joker",
+          "bat"
+        ]
+      },
+      "shareLine": "I got Conceited Cat: aloof, with the occasional act of kindness."
+    }
+  ],
+  "ui": {
+    "start": "Start the quiz",
+    "prev": "← Back",
+    "retry": "Take it again",
+    "copyLink": "Copy quiz link",
+    "copyRes": "Copy my result",
+    "copied": "Copied",
+    "copyManual": "Couldn't copy automatically. Press and hold the text below to copy it.",
+    "shareHint": "Screenshot this card to share it",
+    "progress": "Question {n} of {total}",
+    "footer": "Just for fun, accuracy not guaranteed · all monsters are original",
+    "factQ": "8 questions",
+    "factMin": "About 2 minutes",
+    "factR": "8 results",
+    "maybeYou": "You might be",
+    "lastResult": "Last time you were",
+    "best": "Gets along with you",
+    "worst": "Keep your distance",
+    "power": "Superpower",
+    "weakness": "Fatal flaw",
+    "matchHint": "Tap a name to meet that monster",
+    "close": "Got it",
+    "cardBrand": "Take the Halloween monster quiz",
+    "titleResult": "{name} | {title}",
+    "friendEyebrow": "A friend invited you",
+    "friendGot": "They got",
+    "friendAsk": "What about you?",
+    "friendLead": "Same Halloween night, a different little monster in everyone. Take it and see if you two get along.",
+    "friendGo": "Take the quiz",
+    "langSwitch": "中文",
+    "langSwitchLabel": "Switch to Chinese",
+    "soundOn": "Sound on",
+    "soundOff": "Sound off",
+    "listen": "Hear its call again",
+    "summoning": "Summoning your monster from the pumpkin pot…",
+    "idTitle": "Halloween Monster ID",
+    "idNo": "No.{n}",
+    "stamp": "Certified",
+    "pokeHint": "Poke them, they make noises"
+  }
+}
