@@ -221,6 +221,7 @@ img.art { object-fit: contain; }
 .share-hint { font-size: 14px; font-weight: 700; }
 .share-btns { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
 .share-btns .btn-primary { grid-column: 1 / -1; }
+.manual[hidden] { display: none; }
 .manual { display: grid; gap: 6px; text-align: left; font-size: 13px; color: var(--soft); }
 .manual textarea {
   width: 100%; padding: 10px; border-radius: 12px; border: 3px solid var(--ink); resize: none;
